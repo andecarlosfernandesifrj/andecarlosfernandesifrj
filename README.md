@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andecarlosfernandesifrj.
+- 👋 Hi, I’m Carlos Augusto.
 - 👀 I’m interested in Programming.
 - 🌱 I’m here to teach and learn.
 - 📫 How to reach me carlos.fernandes@ifrj.edu.br
